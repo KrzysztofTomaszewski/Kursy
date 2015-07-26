@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1436981340 source:c:\users\adam\desktop\cb\odczyt_z_txt\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+

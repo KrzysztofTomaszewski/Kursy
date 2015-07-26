@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1437480350 source:c:\users\adam\desktop\do inteligentnych domow\kursy i lekcje programowania\code blocks\wydarzenie\event.cpp
+	<iostream>
+	"event.h"
+
+1437480568 c:\users\adam\desktop\do inteligentnych domow\kursy i lekcje programowania\code blocks\wydarzenie\event.h
+	<iostream>
+

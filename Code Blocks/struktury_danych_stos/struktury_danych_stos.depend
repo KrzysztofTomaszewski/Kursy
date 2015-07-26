@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1437302327 source:c:\users\adam\desktop\cb\struktury_danych_stos\main.cpp
+	<iostream>
+	<windows.h>
+

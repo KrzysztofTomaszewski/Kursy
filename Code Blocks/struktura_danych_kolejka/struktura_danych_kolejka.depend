@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1437303007 source:c:\users\adam\desktop\cb\struktura_danych_kolejka\main.cpp
+	<iostream>
+	<windows.h>
+

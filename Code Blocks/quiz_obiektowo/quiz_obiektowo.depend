@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1437475865 source:c:\users\adam\desktop\do inteligentnych domow\kursy i lekcje programowania\code blocks\quiz_obiektowo\main.cpp
+	<iostream>
+	"pytanie.h"
+
+1437475718 source:c:\users\adam\desktop\do inteligentnych domow\kursy i lekcje programowania\code blocks\quiz_obiektowo\pytanie.cpp
+	<iostream>
+	"pytanie.h"
+	<fstream>
+	<cstdlib>
+
+1437475709 c:\users\adam\desktop\do inteligentnych domow\kursy i lekcje programowania\code blocks\quiz_obiektowo\pytanie.h
+	<iostream>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1437509299 source:c:\users\adam\desktop\do inteligentnych domow\kursy i lekcje programowania\code blocks\funkcje_zaprzyjaznione\main.cpp
+	<iostream>
+	"przyjaciele.h"
+
+1437509933 c:\users\adam\desktop\do inteligentnych domow\kursy i lekcje programowania\code blocks\funkcje_zaprzyjaznione\przyjaciele.h
+	<iostream>
+
+1437509507 source:c:\users\adam\desktop\do inteligentnych domow\kursy i lekcje programowania\code blocks\funkcje_zaprzyjaznione\przyjaciele.cpp
+	<iostream>
+	"przyjaciele.h"
+

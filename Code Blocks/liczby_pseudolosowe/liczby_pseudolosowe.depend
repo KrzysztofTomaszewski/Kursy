@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1436885065 source:c:\users\adam\desktop\cb\liczby_pseudolosowe\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+

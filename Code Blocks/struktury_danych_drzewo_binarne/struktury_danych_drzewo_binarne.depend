@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1437304416 source:c:\users\adam\desktop\cb\struktury_danych_drzewo_binarne\main.cpp
+	<iostream>
+	<windows.h>
+

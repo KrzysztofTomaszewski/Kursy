@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1436980124 source:c:\users\adam\desktop\cb\zabis_do_txt\main.cpp
+	<iostream>
+	<fstream>
+

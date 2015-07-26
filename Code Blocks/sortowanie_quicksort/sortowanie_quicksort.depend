@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1437240636 source:c:\users\adam\desktop\cb\sortowanie_quicksort\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+
